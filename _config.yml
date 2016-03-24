@@ -1,0 +1,28 @@
+name: fieldops.org
+favicon: null
+layout_spectrum: 0.1537932618521154
+typography_spectrum: 0.7339684069156647
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.39542664401233196
+  lightness: 0.5570855152327567
+  saturation: 0.31762101221829653
+  rhythmicContrast: 0.6921151296701282
+purpose: []
